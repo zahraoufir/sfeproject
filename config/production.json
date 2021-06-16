@@ -1,0 +1,11 @@
+{
+    "app":{
+        "name": "Storeino Core"
+    },
+    "db": {
+        "host": ""
+    },
+    "jwt": {
+        "key": ""
+    }
+}

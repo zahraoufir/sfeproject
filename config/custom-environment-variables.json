@@ -1,0 +1,9 @@
+{
+    "db": {
+        "user": "DB_USER",
+        "password": "DB_PASSWORD"
+    },
+    "jwt": {
+        "key": "JWT_KEY"
+    }
+}

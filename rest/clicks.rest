@@ -1,0 +1,15 @@
+GET http://localhost:3077/api/clicks/search
+content-type: application/json
+
+###
+GET http://localhost:3077/api/clicks/create
+content-type: application/json
+
+{
+    "source": "Example A",
+    "count": 6
+}
+
+###
+GET http://localhost:3077/api/clicks/delete?
+content-type: application/json
