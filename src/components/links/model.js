@@ -19,4 +19,4 @@ const schema = new db.Schema({
     },
 },{timestamps : true});
 
-module.exports = db.model('user',schema);
+module.exports = db.model('links',schema);
